@@ -12,5 +12,16 @@ I would love to work on projects with others, and I constantly look for opportun
   <summary>Profile Summaries and Dynamic Media</summary>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opullum&theme=default)
-  
+</details>
+
+<details>
+  <summary>Additional Resources and Visuals</summary>
+  <br>
+  🌟 Credits to these repositories for profile badges and summaries 
+
+  [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file) <br>
+  [markdown-badges](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file) <br>
+
+
+
 </details>
