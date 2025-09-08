@@ -8,5 +8,7 @@ I would love to work on projects with others, and I constantly look for opportun
 
 <details>
   <summary>Profile Summaries and Dynamic Media</summary>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opullum&theme=default)
+  
 </details>
