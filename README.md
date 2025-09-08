@@ -4,5 +4,9 @@ I'm **Octavian Pullum**, a current Computer Science student at [University of Ma
 I'm working on Python basics and will shortly be moving onto OpenCV, TensorFlow, PyTorch, MatPlotLib, and similar libraries. This is due to my current movement towards AI and Machine Learning.
 I would love to work on projects with others, and I constantly look for opportunities to work with those around me!
 
----
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opullum&theme=default)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
+<details>
+  <summary>Profile Summaries and Dynamic Media</summary>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opullum&theme=default)
+</details>
