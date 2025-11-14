@@ -1,20 +1,24 @@
-### 👋 Welcome to my Profile!
-I'm **Octavian Pullum**, a current Computer Science student at [University of Maryland Global Campus](https://www.umgc.edu) with additional study in Machine Learning! I'm attending classes remotely, and working to improve myself in aspects of self-learning. At present, I'm working on becoming a Full-Stack Developer through online resources and courses like Scrimba. Coding is a creative art, and I want the knowledge to create any idea I can imagine.
+<h3 align='center'>👋 Welcome to my Profile!</h3> 
 
+<p align='center'>
+I'm <strong>Octavian Pullum</strong>, a current Computer Science student at <a href='https://www.umgc.edu target='_blank'>University of Maryland Global Campus</a> I'm attending classes remotely, and working to improve myself in aspects of self-learning. Additionally, I'm working to become a Full-Stack Developer through online resources and courses like Scrimba. Coding is a creative art, and I want the knowledge to create any idea I can imagine.
+</p>
+
+<p align='center'>
 Additionally, I'm enrolled in the Machine Learning certificate program at UMGC. This involves study in Statistics, Machine Learning Fundamentals, and general Data Science principles.
-I would love to work on projects with others, and I constantly look for opportunities to work with those around me!
+I would love to work on projects with others, and I constantly look for opportunities to work with those around me!  
+</p>
 
----
-#### Current Tools and Technologies
+<div align='center'>
+<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'> <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'> <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'> <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
+</div><br>
 
-<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
----
-
-<details>
-  <summary>Profile Summaries and Dynamic Media</summary>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opullum&theme=default)
+<details align='center'>
+  <summary><strong>What am I currently working on?</strong></summary>
+    Working on completing the Full-Stack Developer path on <a href='www.scrimba.com' target='_blank'>Scrimba</a><br>
+    Seeking mentorship and apprenticeship opportunities<br>
+    Constantly focusing on self-improvement through education
 </details>
+
 
 
