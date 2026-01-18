@@ -27,6 +27,7 @@ I would love to work on projects with others, and I constantly look for opportun
     <a href="https://github.com/opullum/fem-workit-landing-page">[T1] WorkIt Landing Page</a><br>
     <a href="https://github.com/opullum/fem-huddle-landing-page">[T1] Huddle Landing Page</a><br>
     <a href="https://github.com/opullum/fem-recipe-page">[T1] Recipe Page</a>
+    <a href="https://github.com/opullum/fem-blog-preview-card">[T1] Blog Preview Card</a>
     <p align="center">
        Key: [T1] = "Newbie", [T2] = "Intermediate", [T3] = "Junior", [T4] = "Advanced", [T5] = "Guru"
     </p>
