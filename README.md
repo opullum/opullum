@@ -15,10 +15,20 @@ I would love to work on projects with others, and I constantly look for opportun
 
 <details align='center'>
   <summary><strong>What am I currently working on?</strong></summary>
-    Working on completing the Full-Stack Developer path on <a href='www.scrimba.com' target='_blank'>Scrimba</a><br>
+    Working on completing the Full-Stack Developer path on <a href="www.scrimba.com" target="_blank">Scrimba</a><br>
+    Completing <a href="https://www.frontendmentor.io/ target="_blank">Front End Mentor</a> challenges and providing solution feedback.
     Seeking mentorship and apprenticeship opportunities<br>
     Constantly focusing on self-improvement through education
 </details>
 
-
+<details align='center'>
+  <summary><strong>Completed Weekly Challenges</strong></summary>
+  <p align="center">Last updated: 1/16/2025</p>
+    <a href="https://github.com/opullum/fem-workit-landing-page">[T1] WorkIt Landing Page</a><br>
+    <a href="https://github.com/opullum/fem-huddle-landing-page">[T1] Huddle Landing Page</a><br>
+    <a href="https://github.com/opullum/fem-recipe-page">[T1] Recipe Page</a>
+    <p align="center">
+       Key: [T1] = "Newbie", [T2] = "Intermediate", [T3] = "Junior", [T4] = "Advanced", [T5] = "Guru"
+    </p>
+</details>
 
